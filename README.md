@@ -12,14 +12,14 @@ These are requirements for kata.
 
 ### Initial requirements
 
-Deposit and Withdrawal  
-Account statement (date, amount, balance)  
-Statement printing  
+Deposit Two currencies
+Withdrawal two currencies  
+GetBalance 
 
 ### Extra requirements if you feel with force :)
 
-Transfer  
-Statement filters (just deposits, withdrawal, date)
+Account statement (date, quantity, balance) 
+Statement printing 
 
 ## Getting started
 
