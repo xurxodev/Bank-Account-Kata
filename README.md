@@ -12,8 +12,8 @@ These are requirements for kata.
 
 ### Initial requirements
 
-* Deposit 
-* Withdrawal   
+* Deposit (negative not permitted)
+* Withdrawal (negative not permitted)  
 * GetBalance  
 * Account statement (date, quantity, balance) 
 * Statement printing 
